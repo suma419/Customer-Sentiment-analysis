@@ -1,0 +1,15 @@
+{
+  "fileLocations": [
+    {
+      "URIs": [
+        "s3://kinesisbucket55/processed/85e7feff-e511-408b-bfe7-8a4d027ba7f8.json"
+      ]
+    }
+  ],
+  "globalUploadSettings": {
+    "format": "JSON",
+    "delimiter": ",",
+    "textqualifier": "\"",
+    "containsHeader": "true"
+  }
+}
