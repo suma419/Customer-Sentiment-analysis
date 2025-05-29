@@ -15,16 +15,7 @@ Built a real-time sentiment analysis pipeline using Kinesis, Lambda, Glue, and C
 
 
 
-
-
-
 ![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/4d25d05a59d0b9c127dbef4f4c722095d23154c1/lamdaoutput2screenshot.png)]
-
-
-
-
-
-![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/4d25d05a59d0b9c127dbef4f4c722095d23154c1/s3bucketdataset_customer%20sentiment%20analysis%20screenshot.png)]
 
 
 
