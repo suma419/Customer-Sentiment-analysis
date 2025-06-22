@@ -127,7 +127,12 @@ o	Queries data directly from DynamoDB (if integrated)
 
 
 
-![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/3381f3b521f0bd1679dc5437c52e3caecba7ced9/dashboardimage1.png)]
+![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/e33eae7966eb0b5f043d4ff5d2573c7b176e7121/screenshort%20dashboard2.png)]
+
+
+
+
+![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/e33eae7966eb0b5f043d4ff5d2573c7b176e7121/screenshot%20dashboard1.png)]
 
 
 
