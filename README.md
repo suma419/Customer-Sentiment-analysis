@@ -127,27 +127,27 @@ o	Queries data directly from DynamoDB (if integrated)
 
 
 
-![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/e33eae7966eb0b5f043d4ff5d2573c7b176e7121/screenshort%20dashboard2.png)]
+![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/e33eae7966eb0b5f043d4ff5d2573c7b176e7121/screenshort%20dashboard2.png)
 
 
 
 
-![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/e33eae7966eb0b5f043d4ff5d2573c7b176e7121/screenshot%20dashboard1.png)]
-
-
-
-
-
-![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/4d25d05a59d0b9c127dbef4f4c722095d23154c1/folders.png)]
+![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/e33eae7966eb0b5f043d4ff5d2573c7b176e7121/screenshot%20dashboard1.png)
 
 
 
 
 
-![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/4d25d05a59d0b9c127dbef4f4c722095d23154c1/lamdaoutput2screenshot.png)]
+![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/4d25d05a59d0b9c127dbef4f4c722095d23154c1/folders.png)
 
 
 
 
 
-![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/4d25d05a59d0b9c127dbef4f4c722095d23154c1/sentimenttable_screenshot.png)]
+![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/4d25d05a59d0b9c127dbef4f4c722095d23154c1/lamdaoutput2screenshot.png)
+
+
+
+
+
+![Image Alt](https://github.com/suma419/Customer-Sentiment-analysis/blob/4d25d05a59d0b9c127dbef4f4c722095d23154c1/sentimenttable_screenshot.png)
